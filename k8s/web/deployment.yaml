@@ -6,7 +6,7 @@
       spec:
         containers:
         - name: movies
-          image: palomss/rotten-potatoes
+          image: bisnogo/rotten-potatoes-1
           ports:
            - containerPort: 5000
           env:
